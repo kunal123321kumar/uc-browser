@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Drop shadow -->
+    <color name="colorPrimary">#bababa</color>
+
+    <!-- Navigation bar color -->
+    <color name="colorPrimaryDark">#3d3d3d</color>
+    <color name="colorAccent">#9b9b9b</color>
+</resources>

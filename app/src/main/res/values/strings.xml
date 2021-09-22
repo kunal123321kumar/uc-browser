@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UC BROWSER</string>
+
+    <string name="input_url">TYPE URL</string>
+
+    <!-- Home page -->
+    <string name="home_url">https://www.google.com/</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_right">RIGHT TAB</string>
+    <string name="nav_left">BACK</string>
+    <string name="nav_set">SETTING</string>
+    <string name="nav_page">TAB</string>
+    <string name="nav_home">HOME</string>
+</resources>
